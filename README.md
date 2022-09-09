@@ -1,2 +1,2 @@
 # Resume
-This repo is my resume on english and russian language
+This will be my resume on english and russian language...
